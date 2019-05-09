@@ -40,3 +40,6 @@ function reset() {
   document.getElementById('mainContent').innerHTML = '<img id="mainImg" src="assets/lvl01.jpg" alt="scream and run now">'
   drawImg()
 }
+
+
+alert('Turn on Sound')
